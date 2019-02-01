@@ -1,0 +1,17 @@
+header {
+	background-color:#2bb8ff;
+	padding: 40px;
+	text-align: center;
+ }
+
+ h1{
+ 	font-size: 90px;
+ 	color:white;
+ }
+
+ header img{
+ 	border: 150px
+ }
+/*<header>
+			<img src="https://i.ytimg.com/vi/izztkFNNwP4/maxresdefault.jpg">
+			<h1>Querly</h1>
