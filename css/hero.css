@@ -2,29 +2,24 @@ html, body{
 	font-family: Arial, sans-serif;
 	margin: 0;
 }
-
 header {
 	background-color:#2bb8ff;
 	padding: 40px;
 	text-align: center;
  }
-
  h1{
  	font-size: 90px;
  	color:white;
  }
-
  header img{
  	border-radius:150px;
  	width: 1000px;
  	border:10px solid #004999;
  }
-
 .content{max-width: 900px
 	margin 0 auto; 
 	padding: 0 20px
 }
-
 p.caption{
 	font-size: 16px
 	color: lightgrey;
@@ -41,6 +36,5 @@ footer{
 }
 	footer ul li{
 		display: inline-block;
-		
-		text-align: center;
-	}
+		margin: 0 10px;
+}
